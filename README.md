@@ -1,2 +1,2 @@
 #Portfolio Link
-https://my-portfolioshariqshahood.netlify.app/#contact
+https://my-portfolioshariqshahood.netlify.app
