@@ -1,2 +1,2 @@
 #Portfolio Link
-https://my-portfolioshariqshahood.netlify.app
+https://myportfolio-shariqshahood.netlify.app/
